@@ -22,6 +22,9 @@ LINK: https://status.plug.dj
 <!-- Examples: [Web App Issue, Mobile App Issue] -->
 ### PLATFORM Issue
 
+<!-- Examples: [plug.dj Web version 1.5.6.10975], [plug.dj Android Beta Version 2.6.7] -->
+#### plug.dj version
+
 <!-- Examples: [Google Nexus 4 Android 5.0.1, Chrome 60.0.3112.66 Beta 64-bit] -->
 <!-- HOW TO CHECK: https://github.com/plugdj/Issues-and-Reports/blob/master/.github/CONTRIBUTING.md#versions -->
 #### OS/Browser Name and Version
@@ -45,6 +48,11 @@ WRONG:
 
 <!-- Please be as descriptive as possible, upload images to https://imgur.com -->
 #### Description, Images, Logs
+
+##### Steps to reproduce:
+1. Step one.
+2. Step two.
+3. Uninteded behavior effect.
 
 <!-- Do not post your email address as that could put your account in danger -->
 <!-- Examples: [Plug Technologies, Inc.; 23810294; https://plug.dj/@/plug-technologies-inc] -->
