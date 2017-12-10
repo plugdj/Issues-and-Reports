@@ -22,7 +22,7 @@ LINK: https://status.plug.dj
 <!-- Examples: [Web App Issue, Mobile App Issue] -->
 ### PLATFORM Issue
 
-<!-- Examples: [Android 5.0.1, Chrome 60.0.3112.66 Beta 64-bit] -->
+<!-- Examples: [Google Nexus 4 Android 5.0.1, Chrome 60.0.3112.66 Beta 64-bit] -->
 <!-- HOW TO CHECK: https://github.com/plugdj/Issues-and-Reports/blob/master/.github/CONTRIBUTING.md#versions -->
 #### OS/Browser Name and Version
 
