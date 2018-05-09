@@ -49,11 +49,11 @@ WRONG:
 <!-- Please be as descriptive as possible, upload images to https://imgur.com -->
 #### Description, Images, Logs
 
-##### Steps to reproduce:
+#### Steps to reproduce:
 1. Step one.
 2. Step two.
 3. Uninteded behavior effect.
 
 <!-- Do not post your email address as that could put your account in danger -->
-<!-- Examples: [Plug Technologies, Inc.; 23810294; https://plug.dj/@/plug-technologies-inc] -->
+<!-- Examples: [Plug Technologies, Inc. => 23810294](https://plug.dj/@/plug-technologies-inc) -->
 #### plug.dj username, profile link or user ID
